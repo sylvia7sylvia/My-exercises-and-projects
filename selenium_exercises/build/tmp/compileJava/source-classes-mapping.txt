@@ -10,3 +10,5 @@ BasicAuthTest.java
  BasicAuthTest
 Checkboxes.java
  Checkboxes
+KainosWorkDayLogin.java
+ KainosWorkDayLogin
